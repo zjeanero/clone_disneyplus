@@ -1,27 +1,22 @@
 # Clone Disney+
 
-Este é um projeto de estudo em que recriei a interface da plataforma de streaming Disney+ com HTML, CSS e JavaScript. O objetivo foi praticar conceitos de layout responsivo, estilização moderna e componentes visuais interativos.
+Este é um projeto de estudo em que recriei a interface da plataforma de streaming Disney+ com HTML, CSS e JavaScript. O objetivo foi praticar conceitos de layout responsivo, estilização moderna e automação de tarefas no Front-End.
 
 ## 🛠 Tecnologias Utilizadas
 
 - **HTML5**  
-- **CSS3**  
+- **CSS3 (com pré-processador Sass)**  
 - **JavaScript (ES6)**  
-- **Swiper.js** – para o carrossel de imagens
+- **Gulp** – para automação de tarefas como compilação do Sass e minificação de arquivos
 - **Google Fonts** – para estilização tipográfica
 
 ## 📌 Objetivo do Projeto
 
 Este projeto foi desenvolvido com foco em aprendizado e prática de Front-End, principalmente em:
 
-- Estruturação de páginas com HTML semântico  
-- Estilização moderna e responsiva com CSS  
-- Animações e interatividade com JavaScript  
-- Uso de plugins externos como o Swiper
-
-## 💻 Visualização
-
-Você pode acessar o projeto online [clicando aqui](https://zjeanero.github.io/clone_disneyplus) *(se estiver publicado no GitHub Pages ou Vercel)*.
+- Estruturação semântica com HTML  
+- Estilização moderna e organizada com Sass  
+- Interatividade com JavaScript puro  
+- Uso do Gulp para otimização do fluxo de desenvolvimento
 
 ---
-
